@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/hbk899/node_training#readme",
   "dependencies": {
-    "sqlite3": "^5.1.2"
+    "sqlite3": "^5.1.2",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
   }
 }
